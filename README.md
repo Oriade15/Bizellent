@@ -1,3 +1,3 @@
-# About
+# Bizellent
 
-This repo is used for hosting public releases of Bizellent.
+Your all-in-one tool for sales, stock, customers, and purchases.
